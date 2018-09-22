@@ -1,0 +1,89 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	background-color: #fcc4c4 !important;
+}
+/* .wrapper {
+	background-color: #f1eed9;
+} */
+.content-space {
+	width: 60vw;
+	font-family: 'Nanum Pen Script';
+}
+header {
+	margin-top:50px;
+}
+header h4 {
+	font-size: 30px;
+	text-align: left;
+}
+.nav {
+	font-size: 25px;
+	text-align: right;
+}
+.nav ul {
+	list-style-type: none;
+}
+.nav a{
+	color: #ba1818;
+}
+
+.nav a:hover{
+	text-decoration: none;
+	color: #f25704;
+}
+.nav ul li:first-child {
+	margin-left: 0px;
+}
+
+.content-body {
+	margin-top: 5vh;
+}
+.content-body a{
+	color: #ba1818;
+}
+
+.content-body a:hover{
+	text-decoration: none;
+	color: #f25704;
+}
+
+.not-joking {
+	font-size: 15px;
+}
+
+footer {
+	margin-top: 10vh;
+	bottom: 5vh;
+	font-size: 20px;
+}
+
+
+.description {
+	font-size:22px;
+}
+
+/* this is for blog */
+
+.description ul {
+	list-style-type: none;
+}
+
+footer a{
+	color: #ba1818;
+}
+
+footer a:hover{
+	text-decoration: none;
+	color: #f25704;
+}
+
+.small-text {
+	font-size: 16px;
+}
+
+footer .icon{
+	font-size: 16px;
+}
